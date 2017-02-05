@@ -36,6 +36,6 @@ V.    REPO OWNERS AND ADMINS
 * Other guidelines: It is preferred to run the scripts on High Performance Clusters if the data set is huge.
 
 ### Repo owners or admins ###
-- [https://github.com/rahulr56](Rahul Rachapalli)              rrachapa@uncc.edu
-- [https://github.com/msadanan](Manasa Sadananda)              msadanan@uncc.edu
-- [https://github.com/deshpandevikas](Vikas Deshpande)               vdeshpa2@uncc.edu
+- [Rahul Rachapalli](https://github.com/rahulr56)              rrachapa@uncc.edu
+- [Manasa Sadananda](https://github.com/msadanan)              msadanan@uncc.edu
+- [Vikas Deshpande](https://github.com/deshpandevikas)               vdeshpa2@uncc.edu
