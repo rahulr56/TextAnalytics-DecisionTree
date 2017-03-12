@@ -1,4 +1,4 @@
-# TextAnalytics
+# TextAnalytics - Decision Tree
 
 # README #
 
